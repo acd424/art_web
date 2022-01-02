@@ -130,3 +130,5 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
+
+plugins: [`gatsby-plugin-netlify-cms`]
