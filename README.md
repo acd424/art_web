@@ -16,6 +16,6 @@
 
 3. **Each Blog post is a seperate piece of art.**
 
-4. Currently [here](https://wonderful-austin-8c042e.netlify.app/)
+4. Currently [here](https://wonderful-austin-8c042e.netlify.app/).
 
 <!-- AUTO-GENERATED-CONTENT:END -->
