@@ -10,7 +10,7 @@
 
 ## 🚀 Introduction
 
-1.  **Hosted on Netify.**
+1.  **Hosted on Netlify.**
 
 2.  **Built with Gatsby.**
 
