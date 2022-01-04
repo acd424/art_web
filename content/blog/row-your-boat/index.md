@@ -1,5 +1,5 @@
 ---
-title: Row your boat.
+title: Row your boat
 date: 2022-01-04T10:53:13.930Z
 description: Rowing your boat on a moonlit night.
 ---
