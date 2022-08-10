@@ -3,7 +3,9 @@ title: France vid
 date: 2022-08-10T20:52:09.298Z
 description: Holiday in France
 ---
-```
+
+
+```javascript
 import React from "react"
 import DogVideo from "../assets/france_vid.mp4"
 
