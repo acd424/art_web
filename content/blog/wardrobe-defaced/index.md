@@ -1,8 +1,6 @@
 ---
-title: Wardrobe - defaced!
+title: "The multiverse "
 date: 2022-08-10T20:45:06.619Z
-description: A beautifully deface wardrobe.
+description: A beautifully defaced wardrobe.
 ---
-# A wardrobe - not yet completed
-
 ![](wardrobe.jpg)
